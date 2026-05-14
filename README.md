@@ -1,1 +1,2 @@
 # electric
+![Dashboard](electric.png)
